@@ -1,0 +1,8 @@
+<windowslivelogin>
+  <appid>**INSERTAPPID HERE**</appid>
+  <secret>**INSERTSECRET HERE**</secret>
+  <securityalgorithm>wsignin1.0</securityalgorithm>
+
+  <returnurl>** INSERT RETURN URL **</returnurl>
+  <policyurl>** INSERT RETURN URL **</policyurl>
+</windowslivelogin>
